@@ -383,4 +383,4 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 ---
 
-<a href="https://v0.app/chat/api/kiro/clone/charityagbenu12-cmd/zkkyc-identity-layer" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+
